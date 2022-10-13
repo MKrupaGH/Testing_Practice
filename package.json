@@ -1,0 +1,27 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKrupaGH/Testing_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKrupaGH/Testing_Practice/issues"
+  },
+  "homepage": "https://github.com/MKrupaGH/Testing_Practice#readme",
+  "dependencies": {
+    "jest": "^29.1.2",
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8"
+  }
+}
